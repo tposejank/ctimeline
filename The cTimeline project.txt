@@ -1,0 +1,28 @@
+*********************************************
+		THE CTIMELINE PROJECT
+*********************************************
+
+
+- cTimeline is a basic music editor, for
+basic things such as compiling sounds at
+once, playing on a pattern and generating
+a song.
+
+- It offers various things:
+	~ Custom sounds
+	~ Custom volume
+	~ Custom tempos
+	~ Customizable events
+	~ Customizable duration
+
+
+		---------------------
+			Javascript
+		---------------------
+
+	github.com - GITHUB PAGES SERVICE
+
+
+*******************************************
+		THE CTIMELINE PROJECT
+*******************************************
